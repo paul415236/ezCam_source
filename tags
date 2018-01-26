@@ -1,0 +1,451 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AR	Makefile	/^AR = ar$/;"	m
+B1	src/gui/py_gui.py	/^B1 = tk.Button(win, text = "power", command = power)$/;"	v
+CAPTURE_H	src/capture.h	2;"	d
+CAPTURE_INSTANCE_0	src/main.h	/^	CAPTURE_INSTANCE_0,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_1	src/main.h	/^	CAPTURE_INSTANCE_1,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_10	src/main.h	/^	CAPTURE_INSTANCE_10,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_11	src/main.h	/^	CAPTURE_INSTANCE_11,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_12	src/main.h	/^	CAPTURE_INSTANCE_12,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_13	src/main.h	/^	CAPTURE_INSTANCE_13,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_14	src/main.h	/^	CAPTURE_INSTANCE_14,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_15	src/main.h	/^	CAPTURE_INSTANCE_15,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_16	src/main.h	/^	CAPTURE_INSTANCE_16,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_17	src/main.h	/^	CAPTURE_INSTANCE_17,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_18	src/main.h	/^	CAPTURE_INSTANCE_18,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_19	src/main.h	/^	CAPTURE_INSTANCE_19,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_2	src/main.h	/^	CAPTURE_INSTANCE_2,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_20	src/main.h	/^	CAPTURE_INSTANCE_20,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_21	src/main.h	/^	CAPTURE_INSTANCE_21,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_22	src/main.h	/^	CAPTURE_INSTANCE_22,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_23	src/main.h	/^	CAPTURE_INSTANCE_23,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_24	src/main.h	/^	CAPTURE_INSTANCE_24,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_25	src/main.h	/^	CAPTURE_INSTANCE_25,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_26	src/main.h	/^	CAPTURE_INSTANCE_26,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_27	src/main.h	/^	CAPTURE_INSTANCE_27,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_28	src/main.h	/^	CAPTURE_INSTANCE_28,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_29	src/main.h	/^	CAPTURE_INSTANCE_29,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_3	src/main.h	/^	CAPTURE_INSTANCE_3,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_4	src/main.h	/^	CAPTURE_INSTANCE_4,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_5	src/main.h	/^	CAPTURE_INSTANCE_5,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_6	src/main.h	/^	CAPTURE_INSTANCE_6,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_7	src/main.h	/^	CAPTURE_INSTANCE_7,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_8	src/main.h	/^	CAPTURE_INSTANCE_8,$/;"	e	enum:__anon8
+CAPTURE_INSTANCE_9	src/main.h	/^	CAPTURE_INSTANCE_9,$/;"	e	enum:__anon8
+CAP_MAX_CHANNELS	src/capture.h	12;"	d
+CAP_MAX_HEIGHT	src/capture.h	19;"	d
+CAP_MAX_NUM_BUF	src/capture.h	14;"	d
+CAP_MAX_WIDTH	src/capture.h	18;"	d
+CAP_MIN_NUM_BUF	src/capture.h	13;"	d
+CAP_NONBLOCK_MODE	src/capture.h	16;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -std=gnu11$/;"	m
+CLEAR	src/common.h	8;"	d
+CLOSE	src/main.h	41;"	d
+COMMON_H	src/common.h	2;"	d
+CROSS_TOOL	Makefile	/^CROSS_TOOL = $/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+C_GUI_H	src/c_gui.h	2;"	d
+DATA_LENGTH	src/common.h	/^	DATA_LENGTH = 1,$/;"	e	enum:__anon15
+DECODE_H	src/decode.h	2;"	d
+DECODE_INSTANCE_0	src/main.h	/^	DECODE_INSTANCE_0,$/;"	e	enum:__anon8
+DECODE_INSTANCE_1	src/main.h	/^	DECODE_INSTANCE_1,$/;"	e	enum:__anon8
+DECODE_INSTANCE_10	src/main.h	/^	DECODE_INSTANCE_10,$/;"	e	enum:__anon8
+DECODE_INSTANCE_2	src/main.h	/^	DECODE_INSTANCE_2,$/;"	e	enum:__anon8
+DECODE_INSTANCE_3	src/main.h	/^	DECODE_INSTANCE_3,$/;"	e	enum:__anon8
+DECODE_INSTANCE_4	src/main.h	/^	DECODE_INSTANCE_4,$/;"	e	enum:__anon8
+DECODE_INSTANCE_5	src/main.h	/^	DECODE_INSTANCE_5,$/;"	e	enum:__anon8
+DECODE_INSTANCE_6	src/main.h	/^	DECODE_INSTANCE_6,$/;"	e	enum:__anon8
+DECODE_INSTANCE_7	src/main.h	/^	DECODE_INSTANCE_7,$/;"	e	enum:__anon8
+DECODE_INSTANCE_8	src/main.h	/^	DECODE_INSTANCE_8,$/;"	e	enum:__anon8
+DECODE_INSTANCE_9	src/main.h	/^	DECODE_INSTANCE_9,$/;"	e	enum:__anon8
+DEC_MAX_CHANNELS	src/decode.h	17;"	d
+DEC_MAX_HEIGHT	src/decode.h	22;"	d
+DEC_MAX_NUM_BUF	src/decode.h	19;"	d
+DEC_MAX_WIDTH	src/decode.h	21;"	d
+DEC_MIN_NUM_BUF	src/decode.h	18;"	d
+DIR_INC	Makefile	/^DIR_INC := $(addprefix -I,$(PWD))$/;"	m
+DISABLE	src/main.h	38;"	d
+DISPLAY_H	src/display.h	2;"	d
+DISPLAY_INSTANCE_0	src/main.h	/^	DISPLAY_INSTANCE_0,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_1	src/main.h	/^	DISPLAY_INSTANCE_1,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_10	src/main.h	/^	DISPLAY_INSTANCE_10,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_11	src/main.h	/^	DISPLAY_INSTANCE_11,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_12	src/main.h	/^	DISPLAY_INSTANCE_12,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_13	src/main.h	/^	DISPLAY_INSTANCE_13,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_14	src/main.h	/^	DISPLAY_INSTANCE_14,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_15	src/main.h	/^	DISPLAY_INSTANCE_15,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_16	src/main.h	/^	DISPLAY_INSTANCE_16,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_17	src/main.h	/^	DISPLAY_INSTANCE_17,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_18	src/main.h	/^	DISPLAY_INSTANCE_18,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_19	src/main.h	/^	DISPLAY_INSTANCE_19,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_2	src/main.h	/^	DISPLAY_INSTANCE_2,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_20	src/main.h	/^	DISPLAY_INSTANCE_20,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_21	src/main.h	/^	DISPLAY_INSTANCE_21,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_22	src/main.h	/^	DISPLAY_INSTANCE_22,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_23	src/main.h	/^	DISPLAY_INSTANCE_23,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_24	src/main.h	/^	DISPLAY_INSTANCE_24,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_25	src/main.h	/^	DISPLAY_INSTANCE_25,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_26	src/main.h	/^	DISPLAY_INSTANCE_26,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_27	src/main.h	/^	DISPLAY_INSTANCE_27,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_28	src/main.h	/^	DISPLAY_INSTANCE_28,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_29	src/main.h	/^	DISPLAY_INSTANCE_29,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_3	src/main.h	/^	DISPLAY_INSTANCE_3,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_4	src/main.h	/^	DISPLAY_INSTANCE_4,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_5	src/main.h	/^	DISPLAY_INSTANCE_5,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_6	src/main.h	/^	DISPLAY_INSTANCE_6,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_7	src/main.h	/^	DISPLAY_INSTANCE_7,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_8	src/main.h	/^	DISPLAY_INSTANCE_8,$/;"	e	enum:__anon8
+DISPLAY_INSTANCE_9	src/main.h	/^	DISPLAY_INSTANCE_9,$/;"	e	enum:__anon8
+DIS_MAX_NUM_BUF	src/display.h	18;"	d
+DIS_MIN_NUM_BUF	src/display.h	17;"	d
+DUP_H	src/dup.h	2;"	d
+DUP_INSTANCE_0	src/main.h	/^	DUP_INSTANCE_0,$/;"	e	enum:__anon8
+DUP_INSTANCE_1	src/main.h	/^	DUP_INSTANCE_1,$/;"	e	enum:__anon8
+DUP_INSTANCE_10	src/main.h	/^	DUP_INSTANCE_10,$/;"	e	enum:__anon8
+DUP_INSTANCE_2	src/main.h	/^	DUP_INSTANCE_2,$/;"	e	enum:__anon8
+DUP_INSTANCE_3	src/main.h	/^	DUP_INSTANCE_3,$/;"	e	enum:__anon8
+DUP_INSTANCE_4	src/main.h	/^	DUP_INSTANCE_4,$/;"	e	enum:__anon8
+DUP_INSTANCE_5	src/main.h	/^	DUP_INSTANCE_5,$/;"	e	enum:__anon8
+DUP_INSTANCE_6	src/main.h	/^	DUP_INSTANCE_6,$/;"	e	enum:__anon8
+DUP_INSTANCE_7	src/main.h	/^	DUP_INSTANCE_7,$/;"	e	enum:__anon8
+DUP_INSTANCE_8	src/main.h	/^	DUP_INSTANCE_8,$/;"	e	enum:__anon8
+DUP_INSTANCE_9	src/main.h	/^	DUP_INSTANCE_9,$/;"	e	enum:__anon8
+DUP_MAX_DUP_CHANNELS	src/dup.h	12;"	d
+DUP_MAX_HEIGHT	src/dup.h	16;"	d
+DUP_MAX_IN_CHANNELS	src/dup.h	13;"	d
+DUP_MAX_WIDTH	src/dup.h	15;"	d
+ENABLE	src/main.h	37;"	d
+ENCODE_INSTANCE_0	src/main.h	/^	ENCODE_INSTANCE_0,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_1	src/main.h	/^	ENCODE_INSTANCE_1,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_10	src/main.h	/^	ENCODE_INSTANCE_10,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_2	src/main.h	/^	ENCODE_INSTANCE_2,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_3	src/main.h	/^	ENCODE_INSTANCE_3,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_4	src/main.h	/^	ENCODE_INSTANCE_4,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_5	src/main.h	/^	ENCODE_INSTANCE_5,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_6	src/main.h	/^	ENCODE_INSTANCE_6,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_7	src/main.h	/^	ENCODE_INSTANCE_7,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_8	src/main.h	/^	ENCODE_INSTANCE_8,$/;"	e	enum:__anon8
+ENCODE_INSTANCE_9	src/main.h	/^	ENCODE_INSTANCE_9,$/;"	e	enum:__anon8
+ERR	src/macro.h	38;"	d
+FALSE	src/main.h	47;"	d
+GET_LOCAL_TIME	src/macro.h	24;"	d
+GET_TIME	src/macro.h	16;"	d
+GUI	Makefile	/^GUI = gui$/;"	m
+GUI_CMD	src/c_gui.c	/^} GUI_CMD;$/;"	t	typeref:enum:__anon9	file:
+GUI_CMD	src/gui/cmd.py	/^class GUI_CMD:$/;"	c
+GUI_CMD_MAX	src/c_gui.c	/^	GUI_CMD_MAX$/;"	e	enum:__anon9	file:
+GUI_CMD_SHUTDOWN	src/c_gui.c	/^	GUI_CMD_SHUTDOWN,$/;"	e	enum:__anon9	file:
+GUI_CMD_SIZE	src/c_gui.c	13;"	d	file:
+GUI_CMD_UNKNOWN	src/c_gui.c	/^	GUI_CMD_UNKNOWN,$/;"	e	enum:__anon9	file:
+GUI_SRC	Makefile	/^GUI_SRC = $(PWD)\/src\/gui\/py_gui.py$/;"	m
+INC	Makefile	/^INC = -I$(PWD)$/;"	m
+INIT	src/common.h	/^	INIT = 0,$/;"	e	enum:__anon15
+LFLAGS	Makefile	/^LFLAGS = -lswscale -lavformat -lavcodec -lavutil -lavdevice -lswresample $/;"	m
+LIB	Makefile	/^LIB = -L$(PWD)$/;"	m
+LINK_ID_MAX	src/main.h	/^	LINK_ID_MAX$/;"	e	enum:__anon8
+LINK_ID_NULL	src/main.h	/^	LINK_ID_NULL,$/;"	e	enum:__anon8
+LINK_TYPE_CAPTURE	src/main.h	/^	LINK_TYPE_CAPTURE,$/;"	e	enum:__anon7
+LINK_TYPE_DECODE	src/main.h	/^	LINK_TYPE_DECODE,$/;"	e	enum:__anon7
+LINK_TYPE_DISPLAY	src/main.h	/^	LINK_TYPE_DISPLAY,$/;"	e	enum:__anon7
+LINK_TYPE_DUP	src/main.h	/^	LINK_TYPE_DUP,$/;"	e	enum:__anon7
+LINK_TYPE_ENCODE	src/main.h	/^	LINK_TYPE_ENCODE,$/;"	e	enum:__anon7
+LINK_TYPE_SCALE	src/main.h	/^	LINK_TYPE_SCALE,$/;"	e	enum:__anon7
+LINK_TYPE_UNKNOWN	src/main.h	/^	LINK_TYPE_UNKNOWN$/;"	e	enum:__anon7
+LOG	src/macro.h	45;"	d
+LOGFILE	src/macro.h	44;"	d
+Ll	src/gui/py_gui.py	/^Ll = tk.Label(	win,$/;"	v
+MACRO_H	src/macro.h	2;"	d
+MAIN_H	src/main.h	2;"	d
+MALLOC	src/macro.h	8;"	d
+MAX_NUM_OF_CHANNELS	src/main.h	53;"	d
+NO	src/main.h	44;"	d
+NUM_SHM_POOL	src/common.c	29;"	d	file:
+OBJ	Makefile	/^OBJ := $(patsubst $(PWD)\/%.c,$(PWD)\/%.o,$(SRC))$/;"	m
+OPEN	src/main.h	40;"	d
+PFLAGS	Makefile	/^PFLAGS = -O -m py_compile$/;"	m
+PKG	Makefile	/^PKG = $(PWD)\/..\/ezCam_dependency\/pkg$/;"	m
+PWD	Makefile	/^PWD = $(shell pwd)$/;"	m
+PYTHON	Makefile	/^PYTHON = python$/;"	m
+RECODER_H	src/recoder.h	2;"	d
+RECORD_MAX_CHANNELS	src/recoder.h	12;"	d
+RESERVED_HEADER	src/common.h	/^} RESERVED_HEADER; \/\/ 32 bits long$/;"	t	typeref:enum:__anon15
+RINGBUF_HEADER_SIZE	src/common.c	447;"	d	file:
+RINGBUF_HEADER_SIZE_DATA_LENGTH	src/common.c	449;"	d	file:
+RINGBUF_HEADER_SIZE_INIT	src/common.c	448;"	d	file:
+SCALE_H	src/scale.h	2;"	d
+SCALE_INSTANCE_0	src/main.h	/^	SCALE_INSTANCE_0,$/;"	e	enum:__anon8
+SCALE_INSTANCE_1	src/main.h	/^	SCALE_INSTANCE_1,$/;"	e	enum:__anon8
+SCALE_INSTANCE_10	src/main.h	/^	SCALE_INSTANCE_10,$/;"	e	enum:__anon8
+SCALE_INSTANCE_11	src/main.h	/^	SCALE_INSTANCE_11,$/;"	e	enum:__anon8
+SCALE_INSTANCE_12	src/main.h	/^	SCALE_INSTANCE_12,$/;"	e	enum:__anon8
+SCALE_INSTANCE_13	src/main.h	/^	SCALE_INSTANCE_13,$/;"	e	enum:__anon8
+SCALE_INSTANCE_14	src/main.h	/^	SCALE_INSTANCE_14,$/;"	e	enum:__anon8
+SCALE_INSTANCE_15	src/main.h	/^	SCALE_INSTANCE_15,$/;"	e	enum:__anon8
+SCALE_INSTANCE_16	src/main.h	/^	SCALE_INSTANCE_16,$/;"	e	enum:__anon8
+SCALE_INSTANCE_17	src/main.h	/^	SCALE_INSTANCE_17,$/;"	e	enum:__anon8
+SCALE_INSTANCE_18	src/main.h	/^	SCALE_INSTANCE_18,$/;"	e	enum:__anon8
+SCALE_INSTANCE_19	src/main.h	/^	SCALE_INSTANCE_19,$/;"	e	enum:__anon8
+SCALE_INSTANCE_2	src/main.h	/^	SCALE_INSTANCE_2,$/;"	e	enum:__anon8
+SCALE_INSTANCE_20	src/main.h	/^	SCALE_INSTANCE_20,$/;"	e	enum:__anon8
+SCALE_INSTANCE_21	src/main.h	/^	SCALE_INSTANCE_21,$/;"	e	enum:__anon8
+SCALE_INSTANCE_22	src/main.h	/^	SCALE_INSTANCE_22,$/;"	e	enum:__anon8
+SCALE_INSTANCE_23	src/main.h	/^	SCALE_INSTANCE_23,$/;"	e	enum:__anon8
+SCALE_INSTANCE_24	src/main.h	/^	SCALE_INSTANCE_24,$/;"	e	enum:__anon8
+SCALE_INSTANCE_25	src/main.h	/^	SCALE_INSTANCE_25,$/;"	e	enum:__anon8
+SCALE_INSTANCE_26	src/main.h	/^	SCALE_INSTANCE_26,$/;"	e	enum:__anon8
+SCALE_INSTANCE_27	src/main.h	/^	SCALE_INSTANCE_27,$/;"	e	enum:__anon8
+SCALE_INSTANCE_28	src/main.h	/^	SCALE_INSTANCE_28,$/;"	e	enum:__anon8
+SCALE_INSTANCE_29	src/main.h	/^	SCALE_INSTANCE_29,$/;"	e	enum:__anon8
+SCALE_INSTANCE_3	src/main.h	/^	SCALE_INSTANCE_3,$/;"	e	enum:__anon8
+SCALE_INSTANCE_4	src/main.h	/^	SCALE_INSTANCE_4,$/;"	e	enum:__anon8
+SCALE_INSTANCE_5	src/main.h	/^	SCALE_INSTANCE_5,$/;"	e	enum:__anon8
+SCALE_INSTANCE_6	src/main.h	/^	SCALE_INSTANCE_6,$/;"	e	enum:__anon8
+SCALE_INSTANCE_7	src/main.h	/^	SCALE_INSTANCE_7,$/;"	e	enum:__anon8
+SCALE_INSTANCE_8	src/main.h	/^	SCALE_INSTANCE_8,$/;"	e	enum:__anon8
+SCALE_INSTANCE_9	src/main.h	/^	SCALE_INSTANCE_9,$/;"	e	enum:__anon8
+SCL_MAX_CHANNELS	src/scale.h	12;"	d
+SCL_MAX_HEIGHT	src/scale.h	18;"	d
+SCL_MAX_NUM_BUF	src/scale.h	15;"	d
+SCL_MAX_WIDTH	src/scale.h	17;"	d
+SCL_MIN_NUM_BUF	src/scale.h	14;"	d
+SHUTDOWN	src/gui/cmd.py	/^	SHUTDOWN = 1$/;"	v	class:GUI_CMD
+SLEEP_MSEC	src/common.h	10;"	d
+SLEEP_USEC	src/common.h	11;"	d
+SRC	Makefile	/^SRC = $(PWD)\/src\/main.c \\$/;"	m
+STRIP	Makefile	/^STRIP = strip$/;"	m
+S_FAIL	src/main.h	35;"	d
+S_OK	src/main.h	34;"	d
+TARGET	Makefile	/^TARGET = ezCam$/;"	m
+THREADS	src/main.h	/^} THREADS;$/;"	t	typeref:enum:__anon6
+THREAD_CAPTURE	src/main.h	/^	THREAD_CAPTURE,$/;"	e	enum:__anon6
+THREAD_DECODE	src/main.h	/^	THREAD_DECODE,$/;"	e	enum:__anon6
+THREAD_DELAYTIME_CAPTURE	src/capture.h	21;"	d
+THREAD_DELAYTIME_DECODE	src/decode.h	24;"	d
+THREAD_DELAYTIME_DISPLAY	src/display.h	15;"	d
+THREAD_DELAYTIME_DUP	src/dup.h	19;"	d
+THREAD_DELAYTIME_GUI	src/c_gui.h	12;"	d
+THREAD_DELAYTIME_MAIN	src/main.h	49;"	d
+THREAD_DELAYTIME_SCALE	src/scale.h	20;"	d
+THREAD_DISPLAY	src/main.h	/^	THREAD_DISPLAY,$/;"	e	enum:__anon6
+THREAD_DUP	src/main.h	/^	THREAD_DUP,$/;"	e	enum:__anon6
+THREAD_ENCODE	src/main.h	/^	THREAD_ENCODE,$/;"	e	enum:__anon6
+THREAD_GUI	src/main.h	/^    THREAD_GUI,$/;"	e	enum:__anon6
+THREAD_MAX	src/main.h	/^	THREAD_MAX$/;"	e	enum:__anon6
+THREAD_MAX_NUM	src/main.h	51;"	d
+THREAD_SCALE	src/main.h	/^	THREAD_SCALE,$/;"	e	enum:__anon6
+THREAD_SDL_EVENT	src/main.h	/^	THREAD_SDL_EVENT,$/;"	e	enum:__anon6
+TIMER_CAPTURE	src/common.h	/^	TIMER_CAPTURE,$/;"	e	enum:__anon12
+TIMER_DECODE	src/common.h	/^	TIMER_DECODE,$/;"	e	enum:__anon12
+TIMER_DISPLAY	src/common.h	/^	TIMER_DISPLAY,$/;"	e	enum:__anon12
+TIMER_DISPLAY_EVENT	src/common.h	/^	TIMER_DISPLAY_EVENT,$/;"	e	enum:__anon12
+TIMER_DUP	src/common.h	/^	TIMER_DUP,$/;"	e	enum:__anon12
+TIMER_GUI	src/common.h	/^	TIMER_GUI,$/;"	e	enum:__anon12
+TIMER_MAIN	src/common.h	/^	TIMER_MAIN,$/;"	e	enum:__anon12
+TIMER_MAX	src/common.h	/^	TIMER_MAX$/;"	e	enum:__anon12
+TIMER_NAME	src/common.h	/^} TIMER_NAME;$/;"	t	typeref:enum:__anon12
+TIMER_SCALE	src/common.h	/^	TIMER_SCALE,$/;"	e	enum:__anon12
+TRUE	src/main.h	46;"	d
+VDO_FORMAT	src/common.h	/^} VDO_FORMAT;$/;"	t	typeref:enum:__anon13
+VDO_FORMAT_DEFAULT	src/common.h	/^	VDO_FORMAT_DEFAULT = 0x00,$/;"	e	enum:__anon13
+VDO_FORMAT_H264	src/common.h	/^	VDO_FORMAT_H264,$/;"	e	enum:__anon13
+VDO_FORMAT_MAX	src/common.h	/^	VDO_FORMAT_MAX$/;"	e	enum:__anon13
+VDO_FORMAT_MJPEG	src/common.h	/^	VDO_FORMAT_MJPEG,$/;"	e	enum:__anon13
+VDO_FORMAT_RGB24	src/common.h	/^    VDO_FORMAT_RGB24,$/;"	e	enum:__anon13
+VDO_FORMAT_YUV420P	src/common.h	/^	VDO_FORMAT_YUV420P,$/;"	e	enum:__anon13
+VDO_FORMAT_YUYV422	src/common.h	/^	VDO_FORMAT_YUYV422 = VDO_FORMAT_DEFAULT,$/;"	e	enum:__anon13
+VDO_RESOLUTION	src/common.h	/^} VDO_RESOLUTION;$/;"	t	typeref:enum:__anon14
+VDO_RES_1024_576	src/common.h	/^	VDO_RES_1024_576,$/;"	e	enum:__anon14
+VDO_RES_1280_720	src/common.h	/^	VDO_RES_1280_720,$/;"	e	enum:__anon14
+VDO_RES_160_120	src/common.h	/^	VDO_RES_160_120,$/;"	e	enum:__anon14
+VDO_RES_1920_1080	src/common.h	/^	VDO_RES_1920_1080 = VDO_RES_DEFAULT,$/;"	e	enum:__anon14
+VDO_RES_320_180	src/common.h	/^	VDO_RES_320_180,$/;"	e	enum:__anon14
+VDO_RES_320_240	src/common.h	/^	VDO_RES_320_240,$/;"	e	enum:__anon14
+VDO_RES_424_240	src/common.h	/^	VDO_RES_424_240,$/;"	e	enum:__anon14
+VDO_RES_640_360	src/common.h	/^	VDO_RES_640_360,$/;"	e	enum:__anon14
+VDO_RES_640_480	src/common.h	/^	VDO_RES_640_480,$/;"	e	enum:__anon14
+VDO_RES_848_480	src/common.h	/^	VDO_RES_848_480,$/;"	e	enum:__anon14
+VDO_RES_960_540	src/common.h	/^	VDO_RES_960_540,$/;"	e	enum:__anon14
+VDO_RES_DEFAULT	src/common.h	/^	VDO_RES_DEFAULT = 0x00,$/;"	e	enum:__anon14
+VDO_RES_MAX	src/common.h	/^    VDO_RES_MAX$/;"	e	enum:__anon14
+VideoCodecHandle	src/decode.c	/^} VideoCodecHandle;$/;"	t	typeref:struct:__anon2	file:
+YES	src/main.h	43;"	d
+_BSD_SOURCE	src/main.h	13;"	d
+announcement	src/common.c	/^static void announcement(void)$/;"	f	file:
+awake_gui	go.sh	/^awake_gui()$/;"	f
+buf	src/capture.h	/^	ringBuf buf[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+buf	src/display.h	/^	ringBuf buf;$/;"	m	struct:__anon18
+buf	src/dup.h	/^	ringBuf buf[DUP_MAX_IN_CHANNELS];$/;"	m	struct:__anon4
+cap_dev	src/capture.c	/^char cap_dev[CAP_MAX_CHANNELS][16];$/;"	v
+ch2node	src/capture.h	/^	int ch2node[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+chStatus	src/capture.h	/^	bool chStatus[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+chStatus	src/decode.h	/^	bool chStatus[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+chStatus	src/scale.h	/^	bool chStatus[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+ch_uid	src/capture.h	/^	int ch_uid[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+ch_uid	src/decode.h	/^	int ch_uid[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+ch_uid	src/display.h	/^	int ch_uid;$/;"	m	struct:__anon18
+ch_uid	src/dup.h	/^	int ch_uid[DUP_MAX_IN_CHANNELS];$/;"	m	struct:__anon4
+ch_uid	src/scale.h	/^	int ch_uid[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+check_cmd	src/main.c	/^static int check_cmd(void)$/;"	f	file:
+check_stack_sz	src/main.c	/^static int check_stack_sz(unsigned long long min)$/;"	f	file:
+close_link	src/common.c	/^int close_link(void *param, link_type type)$/;"	f
+close_link_capture	src/capture.c	/^int close_link_capture(void *param)$/;"	f
+close_link_decode	src/decode.c	/^int close_link_decode(void *param)$/;"	f
+close_link_display	src/display.c	/^int close_link_display(void *param)$/;"	f
+close_link_dup	src/dup.c	/^int close_link_dup(void *param)$/;"	f
+close_link_scale	src/scale.c	/^int close_link_scale(void *param)$/;"	f
+create_cap_thread	src/capture.c	/^static int create_cap_thread(link_cap *capInfo)$/;"	f	file:
+create_cap_thread	src/dup.c	/^static int create_cap_thread(link_dup *dupInfo)$/;"	f	file:
+create_dec_thread	src/decode.c	/^static int create_dec_thread(link_dec *decInfo)$/;"	f	file:
+create_dis_thread	src/display.c	/^static int create_dis_thread(link_dis *disInfo)$/;"	f	file:
+create_imgTexture	src/display.c	/^static int create_imgTexture(link_dis *disInfo)$/;"	f	file:
+create_link	src/common.c	/^int create_link(void *param, link_type type)$/;"	f
+create_link_capture	src/capture.c	/^int create_link_capture(void *param)$/;"	f
+create_link_decode	src/decode.c	/^int create_link_decode(void *param)$/;"	f
+create_link_display	src/display.c	/^int create_link_display(void *param)$/;"	f
+create_link_dup	src/dup.c	/^int create_link_dup(void *param)$/;"	f
+create_link_scale	src/scale.c	/^int create_link_scale(void *param)$/;"	f
+create_scl_thread	src/scale.c	/^static int create_scl_thread(link_scl *sclInfo)$/;"	f	file:
+create_shared_memory	src/common.c	/^void* create_shared_memory(size_t size)$/;"	f
+cvt_ffmpeg	src/scale.c	/^static int cvt_ffmpeg(	uint8_t *src,			\/\/ src buffer$/;"	f	file:
+decode_video	src/decode.c	/^static int decode_video(void *param, int ch)$/;"	f	file:
+deque_cap_mmbuf	src/capture.c	/^int deque_cap_mmbuf(link_cap *capInfo, int ch)$/;"	f
+devStatus	src/capture.h	/^	bool devStatus[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+diff_utime	src/common.h	/^	unsigned long long start_utime, diff_utime;$/;"	m	struct:__anon10
+dst_buf	src/decode.h	/^	ringBuf dst_buf[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+dst_buf	src/scale.h	/^	ringBuf dst_buf[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+dst_format	src/decode.h	/^	VDO_FORMAT dst_format[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+dst_format	src/scale.h	/^	VDO_FORMAT dst_format[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+dst_numBufs	src/decode.h	/^	int dst_numBufs[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+dst_numBufs	src/scale.h	/^	int dst_numBufs[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+dst_res	src/scale.h	/^	VDO_RESOLUTION dst_res[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+dst_sz	src/scale.h	/^	frame_sz dst_sz[SCL_MAX_CHANNELS];	$/;"	m	struct:__anon3
+event	src/display.h	/^	SDL_Event event;$/;"	m	struct:__anon18
+exit_vc	src/main.c	/^bool exit_vc = false;$/;"	v
+font	src/gui/py_gui.py	/^					font = ('Arial', 8),$/;"	v
+format	src/capture.h	/^	VDO_FORMAT format[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+format	src/display.h	/^	VDO_FORMAT format;$/;"	m	struct:__anon18
+format	src/dup.h	/^	VDO_FORMAT format[DUP_MAX_IN_CHANNELS];$/;"	m	struct:__anon4
+fps	src/capture.h	/^	int fps[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+fps	src/display.h	/^	int fps;$/;"	m	struct:__anon18
+frame	src/decode.c	/^		void	*frame;$/;"	m	struct:__anon2	file:
+frame_height	src/decode.c	/^		int		frame_height;$/;"	m	struct:__anon2	file:
+frame_sz	src/common.h	/^} frame_sz;$/;"	t	typeref:struct:__anon16
+frame_width	src/decode.c	/^		int		frame_width;$/;"	m	struct:__anon2	file:
+g_ffmpeg_frame	src/decode.c	/^AVFrame *g_ffmpeg_frame;$/;"	v
+g_timer	src/common.c	/^timer g_timer[TIMER_MAX];$/;"	v
+get_ffmpeg_codecType	src/decode.c	/^static int get_ffmpeg_codecType(VDO_FORMAT fmt)$/;"	f	file:
+get_ffmpeg_pixelformat	src/scale.c	/^static int get_ffmpeg_pixelformat(VDO_FORMAT fmt)$/;"	f	file:
+get_ringbuf_reserved	src/common.c	/^int get_ringbuf_reserved(ringBuf *buf, RESERVED_HEADER cmd)$/;"	f
+get_v4l2_pixelformat	src/capture.c	/^static int get_v4l2_pixelformat(VDO_FORMAT fmt)$/;"	f	file:
+get_vdo_resolution	src/common.c	/^int get_vdo_resolution(VDO_RESOLUTION res, int type)$/;"	f
+handle	src/decode.c	/^		void	*handle;$/;"	m	struct:__anon2	file:
+handler	src/c_gui.h	/^    int handler;$/;"	m	struct:__anon1
+handler	src/capture.h	/^	int handler[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+handler	src/decode.h	/^	void *handler[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+handler	src/main.h	/^	pthread_t handler[THREAD_MAX_NUM];$/;"	m	struct:__anon5
+hdl_screen	src/display.h	/^	SDL_Surface *hdl_screen;$/;"	m	struct:__anon18
+head	src/common.h	/^	void *head;$/;"	m	struct:__anon11
+header	src/gui/py_gui.py	/^header = bytearray()$/;"	v
+height	src/common.h	/^	int height;$/;"	m	struct:__anon16
+imgTexture	src/display.h	/^	SDL_Texture *imgTexture;$/;"	m	struct:__anon18
+init_cap_mmapBuf	src/capture.c	/^static int init_cap_mmapBuf(link_cap *capInfo, int ch)$/;"	f	file:
+init_gui_connection	src/c_gui.c	/^int init_gui_connection(socket_pack *s)$/;"	f
+init_shm	src/common.c	/^bool init_shm = false;$/;"	v
+init_timer	src/common.c	/^int init_timer(void)$/;"	f
+ip	src/c_gui.h	/^    char ip[16];$/;"	m	struct:__anon1
+link_cap	src/capture.h	/^} link_cap;$/;"	t	typeref:struct:__anon19
+link_dec	src/decode.h	/^} link_dec;$/;"	t	typeref:struct:__anon17
+link_dis	src/display.h	/^} link_dis;$/;"	t	typeref:struct:__anon18
+link_dup	src/dup.h	/^} link_dup;$/;"	t	typeref:struct:__anon4
+link_id	src/main.h	/^} link_id;$/;"	t	typeref:enum:__anon8
+link_scl	src/scale.h	/^} link_scl;$/;"	t	typeref:struct:__anon3
+link_type	src/main.h	/^} link_type;$/;"	t	typeref:enum:__anon7
+lock_shared_memory_pool	src/common.c	/^pthread_mutex_t lock_shared_memory_pool;$/;"	v
+main	src/main.c	/^int main(int argc, char *argv[])$/;"	f
+mmBuf	src/capture.h	/^	mm_buffer *mmBuf[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+mm_buffer	src/common.h	/^} mm_buffer;$/;"	t	typeref:struct:__anon11
+next_link	src/capture.h	/^	int next_link[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+next_link	src/decode.h	/^	int next_link[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+next_link	src/display.h	/^    int next_link;$/;"	m	struct:__anon18
+next_link	src/dup.h	/^	int next_link[DUP_MAX_IN_CHANNELS][DUP_MAX_DUP_CHANNELS];$/;"	m	struct:__anon4
+next_link	src/scale.h	/^	int next_link[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+numBufs	src/capture.h	/^	int numBufs[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+numBufs	src/display.h	/^	int numBufs;$/;"	m	struct:__anon18
+numChs	src/capture.h	/^	int numChs;$/;"	m	struct:__anon19
+numChs	src/decode.h	/^	int numChs;$/;"	m	struct:__anon17
+numChs	src/dup.h	/^	int numChs;$/;"	m	struct:__anon4
+numChs	src/scale.h	/^	int numChs;$/;"	m	struct:__anon3
+numDups	src/dup.h	/^	int numDups[DUP_MAX_DUP_CHANNELS];$/;"	m	struct:__anon4
+open_cap_dev	src/capture.c	/^static int open_cap_dev(link_cap *capInfo, int ch)$/;"	f	file:
+parse_gui_cmd	src/c_gui.c	/^static int parse_gui_cmd(void *buf)$/;"	f	file:
+port	src/c_gui.h	/^    int port;$/;"	m	struct:__anon1
+power	src/gui/py_gui.py	/^def power():$/;"	f
+previous_link	src/capture.h	/^	int previous_link[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+previous_link	src/decode.h	/^	int previous_link[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+previous_link	src/display.h	/^	int previous_link;$/;"	m	struct:__anon18
+previous_link	src/dup.h	/^	int previous_link[DUP_MAX_IN_CHANNELS];$/;"	m	struct:__anon4
+previous_link	src/scale.h	/^	int previous_link[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+que_cap_mmbuf	src/capture.c	/^static int que_cap_mmbuf(link_cap *capInfo, int ch)$/;"	f	file:
+r_filename	src/recoder.c	/^char r_filename[RECORD_MAX_CHANNELS][16];$/;"	v
+r_handler	src/recoder.c	/^FILE *r_handler[RECORD_MAX_CHANNELS];$/;"	v
+r_uid	src/recoder.c	/^int r_uid[RECORD_MAX_CHANNELS];$/;"	v
+recode_uid2ch	src/recoder.c	/^static int recode_uid2ch(int uid)$/;"	f	file:
+regist_buf	src/common.c	/^int regist_buf(ringBuf *buf, int uid_1, int uid_2)$/;"	f
+renderer	src/display.h	/^	SDL_Renderer *renderer;$/;"	m	struct:__anon18
+res	src/capture.h	/^	VDO_RESOLUTION res[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+res	src/decode.h	/^	VDO_RESOLUTION res[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+res	src/display.h	/^	VDO_RESOLUTION res;$/;"	m	struct:__anon18
+res	src/dup.h	/^	VDO_RESOLUTION res[DUP_MAX_IN_CHANNELS];$/;"	m	struct:__anon4
+reset_timer	src/common.c	/^int reset_timer(TIMER_NAME timer_idx)$/;"	f
+s	src/gui/py_gui.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+server_ip	src/gui/py_gui.py	/^server_ip = '127.0.0.1'$/;"	v
+server_port	src/gui/py_gui.py	/^server_port = 8885$/;"	v
+set_ringbuf_reserved	src/common.c	/^int set_ringbuf_reserved(ringBuf *buf, RESERVED_HEADER cmd, int s)$/;"	f
+shared_memory_pool	src/common.c	/^int shared_memory_pool(int cmd, ringBuf *s, uint32_t size, int uid)$/;"	f
+show_renderInfo	src/display.c	/^static int show_renderInfo(SDL_Renderer* pRen)$/;"	f	file:
+shutdown	src/gui/py_gui.py	/^shutdown = 0$/;"	v
+socket_pack	src/c_gui.h	/^} socket_pack;$/;"	t	typeref:struct:__anon1
+src_buf	src/decode.h	/^	ringBuf src_buf[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+src_buf	src/scale.h	/^	ringBuf src_buf[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+src_format	src/decode.h	/^	VDO_FORMAT src_format[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+src_format	src/scale.h	/^	VDO_FORMAT src_format[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+src_numBufs	src/decode.h	/^	int src_numBufs[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+src_numBufs	src/scale.h	/^	int src_numBufs[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+src_res	src/scale.h	/^	VDO_RESOLUTION src_res[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+src_sz	src/scale.h	/^	frame_sz src_sz[SCL_MAX_CHANNELS];$/;"	m	struct:__anon3
+start_cap_stream	src/capture.c	/^int start_cap_stream(link_cap *capInfo, int ch)$/;"	f
+start_utime	src/common.h	/^	unsigned long long start_utime, diff_utime;$/;"	m	struct:__anon10
+start_vdo_recode_byUID	src/recoder.c	/^int start_vdo_recode_byUID(int uid)$/;"	f
+status	src/display.h	/^	bool status;$/;"	m	struct:__anon18
+status	src/main.h	/^	uint32_t status;$/;"	m	struct:__anon5
+stop_cap_stream	src/capture.c	/^int stop_cap_stream(link_cap *capInfo, int ch)$/;"	f
+stop_vdo_recode_byUID	src/recoder.c	/^int stop_vdo_recode_byUID(int uid)$/;"	f
+sz	src/capture.h	/^	frame_sz sz[CAP_MAX_CHANNELS];$/;"	m	struct:__anon19
+sz	src/common.h	/^	unsigned int sz;$/;"	m	struct:__anon11
+sz	src/decode.h	/^	frame_sz sz[DEC_MAX_CHANNELS];$/;"	m	struct:__anon17
+sz	src/display.h	/^	frame_sz sz;$/;"	m	struct:__anon18
+text	src/gui/py_gui.py	/^					text = 'vcsdk 0.0.0.1',$/;"	v
+thread	src/main.h	/^} thread;$/;"	t	typeref:struct:__anon5
+threadInfo	src/main.c	/^thread threadInfo;$/;"	v
+thread_capture	src/capture.c	/^void thread_capture(void *param)$/;"	f
+thread_decode	src/decode.c	/^void thread_decode(void *param)$/;"	f
+thread_display	src/display.c	/^void thread_display(void *param)$/;"	f
+thread_dup	src/dup.c	/^void thread_dup(void *param)$/;"	f
+thread_gui	src/c_gui.c	/^void thread_gui(void *param)$/;"	f
+thread_scale	src/scale.c	/^void thread_scale(void *param)$/;"	f
+thread_sdl_event	src/display.c	/^void thread_sdl_event(void *param)$/;"	f
+timer	src/common.h	/^} timer;$/;"	t	typeref:struct:__anon10
+v4l2_bufInfo	src/capture.c	/^struct v4l2_buffer v4l2_bufInfo[CAP_MAX_CHANNELS];$/;"	v	typeref:struct:v4l2_buffer
+watch_timer	src/common.c	/^unsigned long long watch_timer(TIMER_NAME timer_idx)$/;"	f
+width	src/common.h	/^	int width;$/;"	m	struct:__anon16
+win	src/gui/py_gui.py	/^win = tk.Tk()$/;"	v
+window	src/display.h	/^	SDL_Window *window;	$/;"	m	struct:__anon18
+wr_debug_cmd	src/common.c	/^void wr_debug_cmd (void)$/;"	f
+write_vdo_stream	src/recoder.c	/^int write_vdo_stream(int uid, void *buf, int buf_sz)$/;"	f
+xioctl	src/common.c	/^int xioctl(int fd, int request, void *arg)$/;"	f
